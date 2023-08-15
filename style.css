@@ -125,6 +125,10 @@ section{
     background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/about-home.jpg);
 
 }
+#contact-h{
+    background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/contact.jpg);
+
+}
 
 .home-text h5{
     font-size: 18px;
