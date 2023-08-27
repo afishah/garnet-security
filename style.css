@@ -41,7 +41,7 @@ header{
 
 .logo{
     width: 90px;
-    height: 70px;
+    /* height: 70px; */
     /* border: 1px solid; */
     /* font-size: 33px;
     color: var(--text-color);
@@ -114,15 +114,15 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/illumination-marketing-XzFJoQPYAuc-unsplash.jpg);
-    background-size: cover;
+    background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/baner3.jpg);
+    background-size: cover ;  
     background-position: center;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-}
+ }
 #about-home{
-    background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/about-home.jpg);
+    background-image: linear-gradient(to left, rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./img/banner.jpg);
 
 }
 #contact-h{
